@@ -1,3 +1,13 @@
+.alert a {
+  color: #a94442;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.alert a:hover {
+  text-decoration: none;
+}
+
 #encoder img {
   width: 100%;
 }
